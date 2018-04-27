@@ -1,0 +1,1 @@
+to run system first install both kernel modules on one board then run the historian on another then the RTU's on the boards with the kernel modules.
